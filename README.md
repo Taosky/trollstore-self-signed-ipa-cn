@@ -1,5 +1,7 @@
 # trollstore-ipa-cn
-Trollstore可安装的常见iOS应用(砸壳)、插件版本、第三方应用
+Trollstore可安装的常见iOS App (砸壳)、插件版本、第三方App
+
+*本仓库只是针对个人在用的国内App进行收录, 更多国际化的应用和tweaks可以看[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)这个仓库*
 
 ### 微信
 
