@@ -14,6 +14,8 @@ Trollstore / 自签可安装的常见iOS应用(砸壳)收集
 
 ##### 多开版本
 
+多开教程: https://taosky.org/story/ios-dual-wechat/
+
 下载地址: [releases/tag/fchat](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/fchat)
 
 
