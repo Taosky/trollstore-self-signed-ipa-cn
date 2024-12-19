@@ -1,4 +1,4 @@
-# trollstore-ipa-cn
+# trollstore-self-signed-ipa-cn
 **Trollstore / 自签 可安装的常见iOS应用(砸壳)收集**
 
 *本仓库只是针对个人在用的国内App进行收录, 更多国际化的应用和tweaks可以看[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)这个仓库*
