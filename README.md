@@ -19,10 +19,18 @@ Trollstore / 自签可安装的常见iOS应用(砸壳)收集
 下载地址: [releases/tag/fchat](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/fchat)
 
 ### 抖音
-#### 砸壳、插件版本
+
+##### 砸壳、插件版本
+
 Netskao插件：AwemeAlwaysShowTime、AwemeDownloadMedia、AwemeDisableBa、AwemeVideoTime
 
 下载地址: [releases/tag/aweme](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/aweme)
+
+
+### Infuse
+
+下载地址: [releases/tag/infuse](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/infuse）
+
 
 
 ### 待补充
