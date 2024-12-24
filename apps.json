@@ -7,7 +7,8 @@
 	    "name": "微信多开",
 	    "bundleIdentifier": "com.tencent.fchat",
 	    "developerName": "Taosky",
-	    "subtitle": "微信多开版本, 除6.7.4外注入iPad登录或净化",
+	    "subtitle": "com.tencent.fchat",
+			"localizedDescription": "微信多开版本, 除6.7.4外注入iPad登录或净化"
 	    "versions": [
 	      {
 	        "version": "6.7.4",
