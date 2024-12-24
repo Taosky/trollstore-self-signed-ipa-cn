@@ -1,19 +1,25 @@
 {
-  "name": "Side86",
+  "name": "Side 86",
   "identifier": "xyz.8610000.side",
   "sourceURL": "https://side.8610000.xyz/apps.json",
   "apps": [
-	{
-	  "name": "微信多开",
-		"bundleIdentifier": "com.tencent.fchat",
-		"developerName": "Taosky",
-		"subtitle": "com.tencent.fchat",
-		"localizedDescription": "微信多开版本, 除6.7.4外注入iPad登录或净化",
-    "iconURL": "https://github.com/Taosky/trollstore-self-signed-ipa-cn/blob/main/icon/com.tencent.fchat.png?raw=true",
-		"tintColor": "33CC33",
-		"beta": false,
-		"versions": [
-		  {
+    {
+      "name": "Fchat",
+      "bundleIdentifier": "com.tencent.fchat",
+      "developerName": "Taosky",
+      "version": "8.0.28",
+      "versionDate": "2022-09-16T23:59:49Z",
+      "versionDescription": "# v8.0.28\n\n",
+      "downloadURL": "https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/download/fchat/fchat_8.0.28_ipad.ipa",
+      "localizedDescription": "微信多开版本, 除6.7.4外注入iPad登录或净化",
+      "iconURL": "https://github.com/Taosky/trollstore-self-signed-ipa-cn/raw/main/icon/com.tencent.fchat.png",
+      "tintColor": "#33CC33",
+      "size": 225443840,
+      "subtitle": "com.tencent.fchat",
+      "absoluteVersion": "1.13.2",
+      "appID": "com.tencent.fchat",
+      "versions": [
+        {
 			"version": "6.7.4",
 			"date": "2018-11-19",
 			"localizedDescription": "适配XS系列, 拍表情, 长按换行（该版本无法iPad登录）",
@@ -67,20 +73,21 @@
 			"minOSVersion": "12.0",
 			"maxOSVersion": "19.0"
 		  }
-		]
-	  }
-	],
+      ]
+    },
+  ],
   "news": [
-  {
-    "title": "My App Now Available!",
-    "identifier": "my-app-available-download",
-    "caption": "The app to beat all apps.",
-    "date": "2020-04-21",
-    "tintColor": "8A28F7",
-    "imageURL": "https://myapp.com/assets/news.png",
-    "url": "https://myapp.com",
-    "appID": "com.myname.myapp",
-    "notify": false
-  }
-]
+    {
+      "title": "Fchat 8.0.24 OUT NOW!",
+      "identifier": "test",
+      "caption": "test",
+      "tintColor": "#33CC33",
+      "imageURL": "https://i.imgur.com/DahJIZv.png",
+      "appID": "com.tencent.fchat",
+      "date": "2022-09-16",
+      "notify": false
+    }
+  ],
+  "version": 2,
+  "apiVersion": "v2"
 }
