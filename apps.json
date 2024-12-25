@@ -11,7 +11,7 @@
       "versionDate": "2022-09-16T23:59:49Z",
       "versionDescription": "# v8.0.28\n\n",
       "downloadURL": "https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/download/fchat/fchat_8.0.28_ipad.ipa",
-      "localizedDescription": "微信多开版本, 除6.7.4外注入iPad登录或净化",
+      "localizedDescription": "微信多开版本, 注入iPad登录或净化, SideStore Source无法下载历史版本, 历史版本见：https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/fchat",
       "iconURL": "https://github.com/Taosky/trollstore-self-signed-ipa-cn/raw/main/icon/com.tencent.fchat.png",
       "tintColor": "#33CC33",
       "size": 225443840,
