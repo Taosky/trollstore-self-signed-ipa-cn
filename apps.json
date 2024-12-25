@@ -4,7 +4,7 @@
   "sourceURL": "https://side.8610000.xyz/apps.json",
   "apps": [
     {
-      "name": "Fchat",
+      "name": "Fchat(微信多开)",
       "bundleIdentifier": "com.tencent.fchat",
       "developerName": "Taosky",
       "version": "8.0.28",
@@ -79,8 +79,8 @@
   ],
   "news": [
     {
-      "title": "Fchat 8.0.24 OUT NOW!",
-      "identifier": "test",
+      "title": "Fchat 8.0.28 OUT NOW!",
+      "identifier": "just.test",
       "caption": "test",
       "tintColor": "#33CC33",
       "imageURL": "https://i.imgur.com/DahJIZv.png",
