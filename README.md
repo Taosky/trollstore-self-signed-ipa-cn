@@ -4,13 +4,13 @@
 *本仓库只是针对个人在用的国内App进行收录, 更多国际化的应用和tweaks可以看[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)这个仓库*
 
 
-TrollStore：应该不用特别说明，安装各种应用几乎都没有限制
+1.TrollStore：应该不用特别说明，安装各种应用几乎都没有限制
 
 
-自签（非开发者账户）：便捷方法可以看下[SideStore](https://sidestore.io/)，配置好之后，手机上（通过互联网）即可完成自签和签名刷新。配合 [LiveContainer](https://github.com/khanhduytran0/LiveContainer) 无限制“加载”使用App (可灵活注入插件)
+2.自签（非开发者账户）：便捷方法可以看下[SideStore](https://sidestore.io/)，配置好之后，手机上（通过互联网）即可完成自签和签名刷新。配合 [LiveContainer](https://github.com/khanhduytran0/LiveContainer) 无限制“加载”使用App (可灵活注入插件)
 
 
-证书签名：需要花钱买证书，容易翻车，自行研究。使用feather导入使用
+3.证书签名：需要花钱买证书，容易翻车，自行研究。使用feather导入使用
 
 
 ### 微信
